@@ -20,7 +20,9 @@ def fact(n):
          
     return res
 
-
+def feature():
+    print("New Feature")
+    
 while cont == 1:
     
     n = input("Enter N: ")
